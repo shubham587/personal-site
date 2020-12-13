@@ -1,0 +1,100 @@
+*{
+  margin: 0;
+}
+.pro{
+  padding-top: 100px;
+  border-radius: 50%;
+  width: 20%;
+}
+.sun{
+  position: absolute;
+  left: 40%;
+  top: 15%;
+  width: 10%;
+}
+.bask{
+
+    width: 20%;
+    padding-top:3%;
+
+}
+.code{
+
+    width: 20%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+body{
+  margin: 0;
+  background-color: #cee397;
+  font-family: sans-serif;
+  height: 1000px;
+  }
+.hr{
+
+  border-color: grey;
+  border-style: none ;
+  border-top-style: dotted;
+  border-width: 5px;
+  margin-left: 40%;
+  width: 20%;
+  height: 4px;
+}
+.whole{
+  text-align: center;
+}
+h1{
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-family: 'Pacifico', cursive;
+  margin-top: 0;
+}
+p{
+  font-family: 'Langar', cursive;
+}
+.t{
+  background-color: #d0e8f2;
+}
+img{
+  width: 40%;
+  display: inline-block;
+}
+h{
+  width: 60%;
+}
+.s{
+  border-radius: 50%;
+  width: 100px;
+  }
+.heading{
+  display: inline-block;
+
+  width: 50%;
+  text-align: center;
+  margin-left: 300px;
+  position: fixed;
+  }
+.hero{
+  background-color: #d0e8f2;
+  z-index: 10;
+  width: 100%;
+  position: fixed;
+}
+.mountain{
+text-align: center;
+  padding-top: 200px;
+}
+.top-cloud{
+  position: absolute;
+  width: 15%;
+  right: 30%;
+  top: 20%;
+}
+.bottom-cloud{
+  position: absolute;
+  width: 12%;
+  left: 25%;
+  top: 35%;
+}
